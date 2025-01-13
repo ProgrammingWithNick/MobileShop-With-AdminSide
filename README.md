@@ -16,7 +16,6 @@
 - **Analytics**: View sales trends and inventory performance.
 
 ### **Screenshots**
-[Add screenshots for Admin features like "Add Product," "Order List," etc.]
 ![image](https://github.com/user-attachments/assets/9b68ffd8-73fc-492c-b73f-cdd4ce2d08ba)
 ![image](https://github.com/user-attachments/assets/4036b976-1ffb-4aea-94e7-9120f81536aa)
 ![image](https://github.com/user-attachments/assets/5a4bb0e8-f6d8-4c56-a9f0-8b20ff8613ee)
@@ -34,7 +33,6 @@
 - **User Account**: Manage personal details and view order history.
 
 ### **Screenshots**
-[Add screenshots for User features like "Product Browsing," "Cart Management," etc.]
 ![image](https://github.com/user-attachments/assets/9b68ffd8-73fc-492c-b73f-cdd4ce2d08ba)
 ![image](https://github.com/user-attachments/assets/4036b976-1ffb-4aea-94e7-9120f81536aa)
 ![image](https://github.com/user-attachments/assets/a995c12a-8124-4064-a58a-784fb59cbfd3)
@@ -56,7 +54,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/mobile-shop.git
+   git clone https://github.com/ProgrammingWithNick/MobileShop-With-AdminSide.git
    ```
 
 2. Open the project in **Android Studio**.
@@ -66,27 +64,6 @@
    - Place it in the `app/` directory.
 
 4. Build the project and run it on an emulator or physical device.
-
----
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add new feature"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
 
 ---
 
