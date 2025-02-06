@@ -5,7 +5,7 @@
 1. **Admin Panel**: Manage products, categories, and orders.
 2. **User Panel**: Shop for products, manage cart, and track orders.
 
----
+--
 
 ## 🛠️ Admin Panel
 
